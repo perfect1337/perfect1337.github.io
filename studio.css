@@ -1,0 +1,474 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    display: flex;
+}
+.fon{
+    
+    /* max-width: 1500px; */
+    height: 48px;
+    background: #E1E7F3;
+}
+.txt{
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: center;
+    color: #373C42;
+}
+.krest{
+    background-image: url(krest.jpg);
+    width: 11px;
+    height: 11px;
+    float:right;
+    position:relative;
+    top: -60px;
+    background-repeat: no-repeat;
+    padding-right: 40px;
+}
+.shik{
+    display: flex;
+    float:right;
+    height: 60px;
+    padding-right: 60px;
+    padding: 0.41% 0.41% 0.41% 0.41%;
+    margin-top: 1%;
+ 
+}
+.vector{
+    background-image: url(vektor.jpg);
+    width: 20px;
+    height: 20px; 
+    float:right;
+    background-repeat: no-repeat;
+}
+.be{
+    background-image: url(be.jpg);
+    width: 20px;
+    height: 18px;
+    background-repeat: no-repeat;
+    margin-right: 0.5vw;
+}
+.kvadr1{
+    background-image: url(rectangle.jpg);
+    width: 6px;
+    height: 6px;
+    margin-right: 0.5vw;
+    
+}
+.tex{
+    margin=top: 30px;
+    margin-left: 19%;
+}
+.tt{
+    font-family: Unica One;
+    font-size: 19px;
+    margin-left: 40%;
+    margin-top: auto;
+    line-height: 100px;
+    /* position: relative;
+    left: 694px; */
+    /* text-align: left; */
+    color: #373C42;
+}
+.krug{
+    background-image: url('images/krug.png');
+    width: 60px;
+    height: 30px;
+    left: 100px;
+}
+
+
+
+
+
+
+
+.zag{
+    width: 1031px;
+    /* height: 150px; */
+    position: relative;
+    left: 200px;
+}
+.font{
+    font-family: Yeseva One;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 75px;
+    text-align: center;
+    color: #373C42;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.shok{
+    width: 6px;
+    height: 6px;
+    position: relative;
+    top: -32px;
+    left: 1222px;
+    gap: 0px;
+    opacity: 0px;
+    color: #A294FF;
+}
+.text1{
+    width: 64px;
+    height: 25px;
+    position: relative;
+    left: 1168px;
+    top: -60px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    color: #373C42;
+}
+.polosa1{
+    width: 64px;
+    height: 1px;
+    position: relative;
+    top: -20px;
+    left: 1111px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.text2{
+    width: 142px;
+    height: 25px;
+    position: relative;
+    top: -132px;
+    left: 1000px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    color: #373C42;
+}
+.polosa2{
+    width: 142px;
+    height: 1px;
+    position: relative;
+    top: -90px;
+    left: 997px;
+    gap: 0px;
+    opacity: 0px;       
+}
+.text3{
+    width: 117px;
+    height: 25px;
+    position: relative;
+    top: -210px;
+    left: 850px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    color: #373C42;
+}
+.polosa3{
+    width: 113px;
+    height: 1px;
+    position: relative;
+    top: -163px;
+    left: 852px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.kvad{
+    width: 6px;
+    height: 6px;
+    position: relative;
+    top: -256px;
+    left: 823px;
+    gap: 0px;
+    opacity: 0px;      
+}
+.text4{
+    width: 61px;
+    height: 25px;
+    position: relative;
+    left: 740px;
+    top: -300px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    color: #373C42;     
+}
+.polosa4{
+    width: 61px;
+    height: 1px;
+    position: relative;
+    top: -249px;
+    left: 730px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.text5{
+    width: 37px;
+    height: 25px;
+    position: relative;
+    top: -408px;
+    left: 680px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    color: #373C42;   
+}
+.polosa5{
+    width: 37px;
+    height: 1px;
+    position: relative;
+    top: -345px;
+    left: 680px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.allore{
+    width: 78px;
+    height: 22px;
+    position: relative;
+    top: -475px;
+    left: 50px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.ama{
+    width: 219px;
+    height: 24px;
+    position: relative;
+    top: -420px;
+    left: 700px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Unica One;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #373C42;      
+}
+.bim{
+    width: 60px;
+    height: 30px;
+    position: relative;
+    top: -460px;
+    left: 620px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.bam{
+    width: 70px;
+    height: 24px;
+    position: relative;
+    top: -505px;
+    left: 525px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Unica One;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #373C42;       
+}
+.bum{
+    width: 200px;
+    height: 1px;
+    position: relative;
+    top: -509px;
+    left: 620px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.textik{
+    width: 1031px;
+    height: 150px;
+    position: relative;
+    top: -550px;
+    left: 195px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Yeseva One;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 75px;
+    text-align: center;
+    color: #373C42;
+}
+.textik1{
+    width: 48px;
+    height: 28px;
+    position: relative;
+    top: -560px;
+    left: 340px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: #7F8893;
+}
+.textik2{
+    width: 773px;
+    height: 84px;
+    position: relative;
+    top: -618px;
+    left: 330px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: #7F8893;      
+}
+.kik1{
+    width: 80px;
+    height: 24px;
+    position: relative;
+    top: -689px;
+    left: 815px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #ffffff;      
+}
+.top1{
+    width: 174px;
+    height: 54px;
+    position: relative;
+    top: -610px;
+    left: 770px;
+    gap: 0px;
+    border-radius: 500px 500px 500px 500px;
+    opacity: 0px;
+    background: #9181FF;  
+}
+.top2{
+    width: 199px;
+    height: 54px;
+    position: relative;
+    top: -1275px;
+    left: 515px;
+    gap: 0px;
+    border-radius: 500px 500px 500px 500px;
+    border: 1px 1px 1px 1px;
+    opacity: 0px;
+    color: #373C42;
+    border: 1px solid #A294FF
+}
+.kartinka1{
+    width: 250px;
+    height: 569px;
+    position: relative;
+    top: -653px;
+    left: 740px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.kartinka2{
+    width: 435px;
+    height: 525px;
+    position: relative;
+    top: -574px;
+    left: 104px;
+    gap: 0px;
+    opacity: 0px;
+}
+.kartinka3{
+    width: 650px;
+    height: 637px;
+    position: relative;
+    top: -1200px;
+    left: 225px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.kartinka4{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -1765px;
+    left: 730px;
+    padding: 10.02px 0px 10.02px 0px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.prym{
+    width: 1440px;
+    height: 2200px;
+    position: relative;
+    top: -1100px;
+    gap: 0px;
+    opacity: 0px;
+    background: #ECF0F7;
+}
+.fit1{
+    width: 720px;
+    height: 1920px;
+    position: relative;
+    top: -3024px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.fit2{
+    width: 720px;
+    height: 1920px;
+    position: relative;
+    top: -3184px;
+    left: -4px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.lama{
+    width: 1440px;
+    height: 1555px;
+    position: relative;
+    top: -2990px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
