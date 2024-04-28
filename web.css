@@ -381,7 +381,7 @@ margin-left:  1.01vw;
     width: 3.89vw;
     font-size: 1.01vw;
     height: 1.26vw;
-    top: -0.05vw;
+    margin-top: 2.5vw;
     margin-left:  6.46vw;
 }
 .txt54{
@@ -932,4 +932,220 @@ width:  6.67vw;
     transform: scale(1);
     width: 100%;
     height:  5.3vw;
+}
+@media  (max-width: 700px){
+    .n2{
+        font-size: 1.81vw;
+    }
+    .n1{
+        font-size: 1.81vw;
+        margin-left: 6.68vw;
+    }
+    .bi-search{
+        margin-left: 11.19vw;
+        width: 2.61vw;
+    height: 2.61vw
+    }
+    .bi-cart2{
+        width: 2.61vw;
+        height: 2.61vw
+    }
+    .zag {
+        font-family: Readex Pro;
+        font-size: 4.64vw;
+        margin-top: 18%;
+        margin-left: 4.84vw;
+        color: black;
+        line-height: 5.9vw;
+    }
+    .button{
+        margin-left: 10vw;
+        width: 46%;
+        margin-bottom: 3VW;
+    }
+    .podzag {
+        margin-top: 3%;
+        font-family: Inter;
+        font-size: 0vw;
+    }
+    .txt2{
+        font-size: 3.7vw;
+    }
+    .txt3{
+        font-size: 0px;
+    }
+    .zag2{
+        font-size: 3.8vw;
+    }
+    .txt6 {
+        color: black;
+        font-family: Readex Pro;
+        font-size: 0;
+        font-weight: 400;
+        line-height: 0.85vw;
+        text-align: left;
+        margin-left: 25.83vw;
+        margin-top: 1.61vw;
+    }
+    .txt7 {
+        font-family: Readex Pro;
+        font-size: 2.5vw;
+        font-weight: 400;
+        line-height: 3.21vw;
+        text-align: left;
+        margin-top: 4.04vw;
+        display: flex;
+    }
+    .txt8{
+        font-size: 0px;
+    }
+    .m2 {
+        margin-top: -3.13vw;
+        margin-left: 2vw;
+    }
+    .m4 {
+        margin-top: -3.43vw;
+        margin-left: 5vw;
+    }
+    .see{
+        margin-top: 6vw;
+    }
+    .txt9{
+        font-size: 0px;
+    }
+    .itemsb {
+        margin-top: 4.57vw;
+        display: flex;
+        width: 100%;
+        height: 32.83vw;
+    }
+    .a1 {
+        background-image: url(2.png);
+        background-size: cover;
+        transform: scale(1);
+        margin-left: 39.92vw;
+        margin-top: 1.52vw;
+        height: 2.62vw;
+        width: 12.67vw;
+    }
+    .zag3 {
+        margin-top: 3.57vw;
+    }
+    .txt51{
+        font-size: 0px;
+    }
+    .txt52{
+        font-size: 0px;
+    }
+    .txt53{
+        font-size: 0px;
+    }
+    .txt54{
+        font-size: 0px;
+    }
+    .pay{
+        font-size: 2vw;
+    }
+    .txt10{
+        font-size: 2.8vw;
+    }
+    .ikons1{
+        display: none;
+    }
+    .ikons2{
+        display: none;
+    }
+    .seeall {
+        margin-top: 2.54vw;
+        width: 100%;
+        height: 10vw;
+    }
+    .txt12{
+        display: none;
+    }
+    .search21 {
+        padding: 0.76vw;
+        padding-left: 0.02vw;
+        padding-right: 1.52vw;
+        padding-top: 0.66vw;
+        margin: 0.25vw;
+        margin-top: 0.88vw;
+        font-family: Inter;
+        font-size: 0.91vw;
+        background-color: #DCE5E2;
+        width: 19.68vw;
+        height: 2.93vw;
+        z-index: 0;
+    }
+    .t1{
+        font-size: 2.4vw;
+        text-align: center;
+    }
+    .t2{
+        font-size: 2.4vw;
+        margin-left: 0.5vw;
+    }
+    .t3{
+        font-size: 2.4vw;
+    }
+    .t4{
+        font-size: 2.4vw;
+        text-align: center;
+    }
+    .txt16{
+        display: none;
+    }
+    .txt14{
+        display: none;
+    }
+    .img15 {
+
+        width: 17.96vw;
+        height: 2.57vw;
+    }
+    .txt15 {
+        font-family: Readex Pro;
+        font-size: 1.61vw;
+        text-align: left;
+        margin-left: 5.05vw;
+        margin-top: 0.76vw;
+        width: 18.69vw;
+        line-height: 1.7vw;
+    }
+    .podval {
+        background-image: url(5.png);
+        background-size: cover;
+        transform: scale(1);
+        width: 100%;
+        height: 10.3vw;
+        margin-top: -1vw;
+    }
+    .img15 {
+        width: 18.96vw;
+        height: 2.57vw;
+    }
+    .a1 {
+        background-image: url(2.png);
+        background-size: cover;
+        transform: scale(1);
+        margin-left: 35.92vw;
+        margin-top: 1.52vw;
+        height: 4.62vw;
+        width: 20.67vw;
+    }
+    .image1 {
+        margin-top: -1vw;
+        background-image: url(california2.png);
+        background-size: cover;
+        transform: scale(1);
+        width: 16.2vw;
+        height: 2vw;
+        margin-left: 4.04vw;
+    }
+    .california {
+        padding-top: 2.53vw;
+        display: flex;
+        width: 100%;
+        height: 14.68vw;
+    }
 }
